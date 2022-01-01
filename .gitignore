@@ -22,3 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 heijiao.iml
+.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2
+.idea/sonarlint/issuestore/index.pb
+.idea/workspace.xml
+*.xml
+.idea/workspace.xml
